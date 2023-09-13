@@ -2,6 +2,7 @@
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
+TejasFirst
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
 - [Usenmfon Uko](https://github.com/Usenmfon)
