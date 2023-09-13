@@ -33,6 +33,7 @@ Mahmoud Mirghani
 KOR EU WEI
 PRAJOT
 - Andrew Pun
+- tejfirst
 - [Ameer jafar](https://github.com/Ameerjafar)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
